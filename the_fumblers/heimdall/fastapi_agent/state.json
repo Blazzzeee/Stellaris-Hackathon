@@ -1,0 +1,22 @@
+{
+  "dummy-api": {
+    "pid": 45300,
+    "status": "dead",
+    "health_url": "http://0.0.0.0:8080/"
+  },
+  "service-1": {
+    "pid": 68806,
+    "status": "healthy",
+    "health_url": "http://127.0.0.1:5000/"
+  },
+  "worker-1": {
+    "pid": 67532,
+    "status": "healthy",
+    "health_url": null
+  },
+  "nodejs-app": {
+    "pid": 67708,
+    "status": "healthy",
+    "health_url": null
+  }
+}
